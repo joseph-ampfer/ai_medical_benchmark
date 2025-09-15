@@ -1,0 +1,37 @@
+[
+  {
+    "task": "medical_practice",
+    "question": "A 14-year-old boy is brought to the emergency department by his parents because of a 1-month history of intermittent right knee pain that has worsened during the past day. He rates his current pain as a 6 on a 10-point scale and says that it worsens when he walks and lessens when he sits. During the past 2 weeks, he has been walking 1 mile daily in preparation for participation in the school marching band. He has not taken any medications for his pain. He sustained a right tibia and fibula fracture at the age of 8 years after a skateboarding accident, which was treated with internal fixation and casting. He has asthma treated with inhaled budesonide daily and inhaled albuterol as needed. His mother has type 2 diabetes mellitus, and his maternal grandmother has osteoporosis. The patient is 170 cm (5 ft 7 in; 77th percentile) tall and weighs 88 kg (195 lb; >95th percentile); BMI is 31 kg/m2 (98th percentile). Temperature is 37.0°C (98.6°F), pulse is 95/min, and blood pressure is 130/80 mm Hg. Physical examination shows hyperpigmented, thickened skin at the nape of the neck. There is tenderness to palpation of the anterior aspect of the right hip and limited range of motion on abduction, internal rotation, and flexion of the right hip. The left hip and knees are nontender; range of motion is full in all directions. The remainder of the examination discloses no abnormalities. Which of the following factors in this patient’s history most increased his risk for developing this condition?",
+    "answer": "A. BMI",
+    "source": "NBME Practice",
+    "question_id": 1
+  },
+  {
+    "task": "medical_practice",
+    "question": "A 14-year-old girl is brought to the office by her mother because of a 3-month history of red bumps on her skin. The patient says the bumps are not itchy or painful but that she finds them embarrassing. She has no history of major medical illness and takes no medications. Her vital signs are within normal limits. Physical examination shows the findings in the photograph. Which of the following is the most likely diagnosis?",
+    "answer": "D. Keratosis pilaris",
+    "source": "NBME Practice",
+    "question_id": 2
+  },
+  {
+    "task": "medical_practice",
+    "question": "A 50-year-old man comes to the office because of a 2-month history of increasing daytime somnolence. He has obstructive sleep apnea for which he has only intermittently used a continuous positive airway pressure device. He is 170 cm (5 ft 7 in) tall and weighs 181 kg (400 lb); BMI is 63 kg/m2. His temperature is 37°C (98.6°F), pulse is 100/min, respirations are 12/min, and blood pressure is 135/80 mm Hg. Physical examination shows a gray-blue tinge to the lips, earlobes, and nail beds. Cardiac examination shows no other abnormalities. Arterial blood gas analysis on room air shows a pH of 7.31, Pco2 of 70 mm Hg, and Po2 of 50 mm Hg. Which of the following additional findings would be most likely in this patient?",
+    "answer": "B. Increased hemoglobin concentration",
+    "source": "NBME Practice",
+    "question_id": 3
+  },
+  {
+    "task": "medical_practice",
+    "question": "A 32-year-old man comes to the office because of a 1-day history of cough productive of small amounts of blood and a 2-day history of shortness of breath and swelling of his ankles. He also has a 2-week history of progressive fatigue and episodes of dark urine. He has no history of major medical illness and takes no medications. His temperature is 37°C (98.6°F), pulse is 90/min, respirations are 18/min, and blood pressure is 175/110 mm Hg. Pulse oximetry on room air shows an oxygen saturation of 91%. Diffuse inspiratory crackles are heard over all lung bases. There is 2+ pitting edema of both ankles. Results of laboratory studies are shown:\n\nHemoglobin 8.9 g/dL\nHematocrit 27%\nSerum  \nUrea nitrogen 55 mg/dL\nCreatinine 2.9 mg/dL\nUrine RBC 20–40/hpf\n\nUrinalysis also shows some dysmorphic RBCs and rare RBC casts. Examination of a kidney biopsy specimen shows crescentic glomerulonephritis and linear deposition of IgG along the glomerular capillaries. This patient most likely has antibodies directed against which of the following antigens?",
+    "answer": "A. Collagen",
+    "source": "NBME Practice",
+    "question_id": 4
+  },
+  {
+    "task": "medical_practice",
+    "question": "A 5-year-old girl is brought to the emergency department because of a 2-day history of fever, urinary urgency, and burning pain with urination. She has had four similar episodes during the past year. A diagnosis of urinary tract infection is made. Subsequent renal ultrasonography shows one large U-shaped kidney. Which of the following is the most likely embryologic origin of this patient's condition?",
+    "answer": "D. Fusion of the inferior poles of the metanephros during ascent",
+    "source": "NBME Practice",
+    "question_id": 5
+  }
+]
