@@ -38,6 +38,22 @@ backgroundColor: white
 
 ---
 
+# Project Scope
+
+## 📊 **By the Numbers**
+
+### **Features**
+- **4** Core Features
+- **4** Stretch Features
+- **8** Total Features
+
+### **Requirements** 
+- **5** Core User Stories
+- **3** Stretch User Stories  
+- **8** Total Requirements
+
+---
+
 # Feature 1: Question Dataset
 
 ## **Problem**
